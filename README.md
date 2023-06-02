@@ -9,7 +9,7 @@ I'm really not that interesting ✨
 * 🌍  I'm based in Scotland
 * 🖥️  See my portfolio at [sergiocastillo.dev](http://sergiocastillo.dev/)
 * ✉️  You can contact me at [sergiocast97@gmail.com](mailto:sergiocast97@gmail.com)
-* 🚀  I'm currently working on [Mission10](http://https://mission10.co.uk/)
+* 🚀  I'm currently working at [Mission10](http://https://mission10.co.uk/)
 
 ### Skills
 

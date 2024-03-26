@@ -1,13 +1,13 @@
 Hi 👋🏼 My name is Sergio Castillo
 =======================================================================================================================================
 
-Front-End Developer & Designer
+Full-Stack Designer
 ------------------------------
 
 I'm really not that interesting ✨
 
 * 🌍  I'm based in Scotland
-* 🖥️  See my portfolio at [sergiocastillo.dev](http://sergiocastillo.dev/)
+* 🖥️  See my portfolio on [Behance](https://www.behance.net/sergiocast97)
 * ✉️  You can contact me at [sergiocast97@gmail.com](mailto:sergiocast97@gmail.com)
 * 🚀  I'm currently working at [Mission10](http://https://mission10.co.uk/)
 

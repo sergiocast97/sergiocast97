@@ -6,10 +6,10 @@ Design Engineer
 
 I'm really not that interesting ✨
 
-* 🌍  I'm based in Scotland
+* 🌍  I'm based in Glasgow, Scotland
 * 🖥️  See my portfolio on [Behance](https://www.behance.net/sergiocast97)
 * ✉️  You can contact me at [sergiocast97@gmail.com](mailto:sergiocast97@gmail.com)
-* 🚀  I'm currently working at [Mission10](http://https://mission10.co.uk/)
+* 🚀  I'm currently working at [Itison](https://www.itison.com/)
 
 ### Skills
 

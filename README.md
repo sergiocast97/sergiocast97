@@ -1,7 +1,7 @@
 Hi 👋🏼 My name is Sergio Castillo
 =======================================================================================================================================
 
-Design Engineer
+Front-End Engineer | UI Designer
 ------------------------------
 
 * 🌍  I'm based in Glasgow, Scotland

@@ -9,3 +9,7 @@ I’m a front-end engineer and UI Designer based in Glasgow, Scotland 🏴󠁧�
 * **Frameworks**: React, Vue, Next, Nuxt, Astro, Laravel, Tailwind, Sass
 * **Libraries**: Redux, tRPC, Prisma, CLSX 
 * **Tools & Platforms**: Figma, Vercel, GithHub Photoshop, Digital Ocean
+
+### Projects 🚀
+* [**New Tab**](https://chromewebstore.google.com/detail/new-tab/kjlakklebomiijfpbhknagjajcbejden): No frills, no nonsense new tab extension
+* [**Orxata DS**](https://orxata.sergiocastillo.dev/): A Design System I made for a talk in Glasgow Js

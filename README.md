@@ -1,15 +1,16 @@
 # Hi 👋🏼 My name is Sergio Castillo
 
-## Front-End Engineer | UI Designer ✨
+## Software Engineer | UI Designer ✨
 
-I’m a front-end engineer and UI Designer based in Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿. My passion lies in the intersection between design and development - I love designing and building things.
+I’m based in Glasgow 🏴󠁧󠁢󠁳󠁣󠁴󠁿, I love designing and building things.
 
 ### Technical Skills 🛠️
-* **Languages**: JavaScript, TypeScript, Python, PHP, HTML & CSS
-* **Frameworks**: React, Vue, Next, Nuxt, Astro, Laravel, Tailwind, Sass
-* **Libraries**: Redux, tRPC, Prisma, CLSX 
-* **Tools & Platforms**: Figma, Vercel, GithHub Photoshop, Digital Ocean
+* **Languages**: TypeScript, Python, Java, PHP, HTML, JS & CSS
+* **Frameworks**: React, Tailwind, Vue, Astro, Laravel
+* **Libraries**: Redux, Zustand, Tanstack Query, React Router
+* **Tools & Platforms**: Figma, Vercel, GitHub, Photoshop, Digital Ocean
 
 ### Projects 🚀
-* [**New Tab**](https://chromewebstore.google.com/detail/new-tab/kjlakklebomiijfpbhknagjajcbejden): No frills, no nonsense new tab extension
-* [**Orxata DS**](https://orxata.sergiocastillo.dev/): A Design System I made for a talk in Glasgow Js
+* [**New Tab**](https://chromewebstore.google.com/detail/new-tab/kjlakklebomiijfpbhknagjajcbejden): No frills, no nonsense new tab extension because the other ones annoyed me
+* [**Orxata DS**](https://orxata.sergiocastillo.dev/): A demo I made for a talk in Glasgow Js on Design Systems and Tailwind CSS
+* [**Refranero API**](https://refranero.sergiocastillo.dev/): A silly API with Spanish refranes and their literal English translations

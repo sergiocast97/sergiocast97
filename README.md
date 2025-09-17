@@ -5,9 +5,9 @@
 I’m based in Glasgow 🏴󠁧󠁢󠁳󠁣󠁴󠁿, I love designing and building things.
 
 ### Technical Skills 🛠️
-* **Languages**: TypeScript, Python, Java, PHP, HTML, JS & CSS
+* **Languages**: TypeScript, GraphQL, Python, Java, PHP, HTML/JS/CSS
 * **Frameworks**: React, Tailwind, Vue, Astro, Laravel
-* **Libraries**: Redux, Zustand, Tanstack Query, React Router
+* **Libraries**: Apollo, Redux, Zustand, Tanstack Query, React Router
 * **Tools & Platforms**: Figma, Vercel, GitHub, Photoshop, Digital Ocean
 
 ### Projects 🚀
